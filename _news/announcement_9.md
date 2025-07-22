@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am honored to receive the Best Presenation Award at the Graduation Thesis Defense, [Hanoi University of Science and Technology](https://hust.edu.vn/en/).
+I am honored to receive the Best Presentation Award at the Graduation Thesis Defense, [Hanoi University of Science and Technology](https://hust.edu.vn/en/).
