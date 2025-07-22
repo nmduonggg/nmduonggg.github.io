@@ -69,8 +69,8 @@ ninja.data = [{
           section: "News",},{id: "news-two-oral-presentations-at-isbi-2025-conference-see-you-in-houston-texas-usa",
           title: 'Two oral presentations at ISBI 2025 conference. See you in Houston, Texas, USA....',
           description: "",
-          section: "News",},{id: "news-i-am-honored-to-receive-the-best-presenation-award-at-the-graduation-thesis-defense-hanoi-university-of-science-and-technology",
-          title: 'I am honored to receive the Best Presenation Award at the Graduation Thesis...',
+          section: "News",},{id: "news-i-am-honored-to-receive-the-best-presentation-award-at-the-graduation-thesis-defense-hanoi-university-of-science-and-technology",
+          title: 'I am honored to receive the Best Presentation Award at the Graduation Thesis...',
           description: "",
           section: "News",},{
         id: 'social-email',
