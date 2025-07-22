@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Ph.D. Student in CS@University of Illinois Urbana Champaign</a>. United States.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -33,4 +33,8 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Duong M. Nguyen is currently a Ph.D. student in [Computer Science](https://siebelschool.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://illinois.edu/) where he is working with [Prof. Minh N. Do](https://minhdo.ece.illinois.edu/). Prior to UIUC, he obtained his B.Sc. degree (advanced program) at the [Hanoi University of Science and Technology](https://hust.edu.vn/en/) under the supervision of [Prof. Phi Le Nguyen](https://scholar.google.com/citations?user=L_NKoQwAAAAJ&hl=en) and was a research assistant in [Institute for AI Innovation and Societal Impact (AI4LIFE)](https://ai4life.hust.edu.vn/). His research interests focus on developing computer vision (CV) and machine learning (ML) for AI in Healthcare. This spans in two main lines: (1) Improve model efficiency under heterogenous settings via federated learning and dataset condensation and (2) Developing AI solutions for medica image processing problems (e.g., histopathological imaging, time-lapsed imaging and cell growth). Due to sensitivity and variability of medical data, he wants to combine two these research domains to build a privacy-aware, computationally efficient, and powerful AI platform in healthcare for everyone. He was hornored to receive the Best Presentation Award in Graduation Thesis Defense at the Hanoi University of Science and Technology.
+Duong M. Nguyen is currently a Ph.D. student in [Computer Science](https://siebelschool.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://illinois.edu/) where he is working with [Prof. Minh N. Do](https://minhdo.ece.illinois.edu/). Prior to UIUC, he obtained his B.Sc. degree (advanced program) at the [Hanoi University of Science and Technology](https://hust.edu.vn/en/) under the supervision of [Prof. Phi Le Nguyen](https://scholar.google.com/citations?user=L_NKoQwAAAAJ&hl=en) and was a research assistant in [Institute for AI Innovation and Societal Impact (AI4LIFE)](https://ai4life.hust.edu.vn/).
+
+His research interests focus on developing computer vision (CV) and machine learning (ML) for AI in Healthcare. This spans in two main lines: (1) Improve model efficiency under heterogenous settings via federated learning and dataset condensation and (2) Developing AI solutions for medica image processing problems (e.g., histopathological imaging, time-lapsed imaging and cell growth). Due to sensitivity and variability of medical data, he wants to combine two these research domains to build a privacy-aware, computationally efficient, and powerful AI platform in healthcare for everyone. 
+
+He was hornored to receive the Best Presentation Award in Graduation Thesis Defense at the Hanoi University of Science and Technology.
