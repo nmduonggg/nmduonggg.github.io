@@ -42,7 +42,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-paper-has-been-accepted-at-nca-2024-for-oral-presentation",
+            },},{id: "news-start-my-research-journey-as-a-research-assistant-at-the-vinuni-illinois-smart-health-center",
+          title: 'Start my research journey as a research assistant at the VinUni-Illinois Smart Health...',
+          description: "",
+          section: "News",},{id: "news-one-paper-has-been-accepted-at-nca-2024-for-oral-presentation",
           title: 'One paper has been accepted at NCA 2024 for oral presentation.',
           description: "",
           section: "News",},{id: "news-attending-asdp-2024-see-you-in-seoul-korea",
