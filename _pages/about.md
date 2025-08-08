@@ -38,3 +38,4 @@ Duong M. Nguyen is currently a Ph.D. student in [Computer Science](https://siebe
 His research interests focus on developing computer vision (CV) and machine learning (ML) for AI in Healthcare. This spans in two main lines: (1) Improve model efficiency under heterogenous settings via federated learning and dataset condensation and (2) Developing AI solutions for medical image processing problems (e.g., histopathological imaging, time-lapsed imaging and cell growth). Due to sensitivity and variability of medical data, he wants to combine two these research domains to build a privacy-aware, computationally efficient, and powerful AI platform in healthcare for everyone. 
 
 He was honored to receive the Best Presentation Award in Graduation Thesis Defense at the Hanoi University of Science and Technology.
+
