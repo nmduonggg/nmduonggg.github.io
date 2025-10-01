@@ -56,7 +56,7 @@ ninja.data = [{
           title: 'Two oral presentations at ISBI 2025 conference. See you in Houston, Texas, USA....',
           description: "",
           section: "News",},{id: "news-one-paper-accepted-at-iccv-2025-rank-a-cheers",
-          title: 'One [paper] accepted at ICCV 2025 (rank A*). Cheers !',
+          title: 'One paper accepted at ICCV 2025 (rank A*). Cheers !',
           description: "",
           section: "News",},{id: "news-i-am-honored-to-receive-the-best-presentation-award-at-the-graduation-thesis-defense-hanoi-university-of-science-and-technology",
           title: 'I am honored to receive the Best Presentation Award at the Graduation Thesis...',
@@ -65,7 +65,7 @@ ninja.data = [{
           title: 'Relocate to Illinoi to start my PhD in CS @ University of Illinois...',
           description: "",
           section: "News",},{id: "news-one-paper-accepted-at-neurips-2025-rank-a-see-you-in-san-diego-us",
-          title: 'One [paper] accepted at NeurIPS 2025 (rank A*). See you in San Diego,...',
+          title: 'One paper accepted at NeurIPS 2025 (rank A*). See you in San Diego,...',
           description: "",
           section: "News",},{
         id: 'social-email',
