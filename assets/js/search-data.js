@@ -67,6 +67,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-accepted-at-neurips-2025-rank-a-see-you-in-san-diego-us",
           title: 'One paper accepted at NeurIPS 2025 (rank A*). See you in San Diego,...',
           description: "",
+          section: "News",},{id: "news-starts-working-with-research-team-for-mascot-project-at-uiuc",
+          title: 'Starts working with research team for MASCOT project at UIUC',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
