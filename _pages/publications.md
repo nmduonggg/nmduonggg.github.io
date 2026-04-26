@@ -15,8 +15,8 @@ nav_order: 2
 
 <div class="publications">
 
-<!-- {% bibliography %} -->
-{% bibliography --group_by year --group_order descending %}
+{% bibliography %}
+<!-- {% bibliography --group_by year --group_order descending %} -->
 
 
 </div>

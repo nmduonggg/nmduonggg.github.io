@@ -7,7 +7,7 @@ subtitle: <a href='#'>Ph.D. Student in CS@University of Illinois Urbana Champaig
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>nmduongg@illinois.edu</p>
     <p>University of Illinois Urbana-Champaign</p>
