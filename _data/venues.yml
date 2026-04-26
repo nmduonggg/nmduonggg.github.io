@@ -1,19 +1,19 @@
 "NeurIPS":
-  color: "8F0404"
+  color: "#b71c1c"
   url: https://neurips.cc
 
 "ICCV":
-  color: "8F0404"
+  color: "#b71c1c"
   url: https://iccv.thecvf.com
 
 "WACV":
-  color: "8F0404"
+  color: "#b71c1c"
   url: https://wacv.thecvf.com
 
 "ISBI":
-  color: "8F0404"
+  color: "#b71c1c"
   url: https://biomedicalimaging.org
 
 "NCA":
-  color: "8F0404"
+  color: "#b71c1c"
   url: https://nca-ieee.org
