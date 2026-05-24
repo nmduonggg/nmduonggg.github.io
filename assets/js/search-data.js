@@ -70,6 +70,12 @@ ninja.data = [{
           section: "News",},{id: "news-starts-working-with-research-team-for-mascot-project-at-uiuc",
           title: 'Starts working with research team for MASCOT project at UIUC',
           description: "",
+          section: "News",},{id: "news-honor-to-receive-gold-reviewer-award-from-icml-2026",
+          title: 'Honor to receive Gold Reviewer Award from ICML 2026.',
+          description: "",
+          section: "News",},{id: "news-relocate-to-nyc-new-york-for-my-internship-in-agent-warden-team-at-dynamo-ai-feel-free-to-hit-me-up-if-you-want-to-grab-coffee",
+          title: 'Relocate to NYC, New York for my internship in Agent Warden team at...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
