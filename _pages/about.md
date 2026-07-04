@@ -37,7 +37,7 @@ Hey there! Duong M. Nguyen is currently a second-year Ph.D. student in [Computer
 
 Prior to UIUC, he obtained his B.Sc. degree (advanced program) at the [Hanoi University of Science and Technology](https://hust.edu.vn/en/) under the supervision of [Prof. Phi Le Nguyen](https://scholar.google.com/citations?user=L_NKoQwAAAAJ&hl=en) and was a research assistant in [Institute for AI Innovation and Societal Impact (AI4LIFE)](https://ai4life.hust.edu.vn/).
 
-Duong's research interests lie at the intersection of machine learning and its application, particularly trustworthy and efficient systems. His research spans a variety of topics: (1) general machine learning, including model efficiency, robustness, and scalability; (2) generative modeling, spanning both theoretical foundations and practical applications. He has experienced in machine learning - driven solutions for healthcare images and agentic security.
+Duong's research interests are centered around machine learning and its application, particularly trustworthy and efficient systems. His research spans a variety of topics: (1) **trustworthy machine learning**, including model efficiency, robustness, and scalability; (2) **generative modeling**, spanning both theoretical foundations and practical applications. He has experienced in machine learning - driven solutions for **healthcare imaging** and **agentic security**.
 
 He was honored to receive the Best Presentation Award in Graduation Thesis Defense at the Hanoi University of Science and Technology.
 
