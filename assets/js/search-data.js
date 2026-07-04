@@ -76,6 +76,9 @@ ninja.data = [{
           section: "News",},{id: "news-relocate-to-nyc-new-york-for-my-internship-in-agent-warden-team-at-dynamo-ai-feel-free-to-hit-me-up-if-you-want-to-grab-coffee",
           title: 'Relocate to NYC, New York for my internship in Agent Warden team at...',
           description: "",
+          section: "News",},{id: "news-one-paper-accepted-at-spigm-icml-2026-let-s-chat-more-if-you-are-interested-in",
+          title: 'One paper accepted at SPIGM@ICML 2026. Let’s chat more if you are interested...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
